@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EcommerceCheckout.App\EcommerceCheckout.App.csproj" />
+  </ItemGroup>
+
 </Project>
